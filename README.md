@@ -1,2 +1,2 @@
 # hello-world
-fisr repository on github
+first repository on github
